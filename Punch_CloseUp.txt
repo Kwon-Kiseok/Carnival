@@ -1,0 +1,12 @@
+10
+0
+
+Punch_CloseUp1.png	255	0	255	1080	600	100
+Punch_CloseUp2.png	255	0	255	1080	600	100
+Punch_CloseUp3.png	255	0	255	1080	600	100
+Punch_CloseUp4.png	255	0	255	1080	600	100
+Punch_CloseUp5.png	255	0	255	1080	600	100
+Punch_CloseUp7.png	255	0	255	1080	600	100
+Punch_CloseUp8.png	255	0	255	1080	600	100
+Punch_CloseUp9.png	255	0	255	1080	600	100
+Punch_CloseUp10.png	255	0	255	1080	600	100

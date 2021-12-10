@@ -1,0 +1,19 @@
+16 
+0
+
+Steam_CloseUp1.png 	255	0	255	1080	600	100
+Steam_CloseUp2.png 	255	0	255	1080	600	100
+Steam_CloseUp3.png 	255	0	255	1080	600	100
+Steam_CloseUp4.png 	255	0	255	1080	600	100
+Steam_CloseUp5.png 	255	0	255	1080	600	100
+Steam_CloseUp6.png 	255	0	255	1080	600	100
+Steam_CloseUp7.png 	255	0	255	1080	600	100
+Steam_CloseUp8.png 	255	0	255	1080	600	100
+Steam_CloseUp9.png 	255	0	255	1080	600	100
+Steam_CloseUp10.png 	255	0	255	1080	600	100
+Steam_CloseUp11.png 	255	0	255	1080	600	100
+Steam_CloseUp12.png 	255	0	255	1080	600	100
+Steam_CloseUp13.png 	255	0	255	1080	600	100
+Steam_CloseUp14.png 	255	0	255	1080	600	100
+Steam_CloseUp15.png 	255	0	255	1080	600	100
+Steam_CloseUp16.png 	255	0	255	1080	600	100

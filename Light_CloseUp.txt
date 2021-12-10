@@ -1,0 +1,13 @@
+10
+0
+
+Light_CloseUp_1.png	255	0	255	1080	600	100
+Light_CloseUp_2.png	255	0	255	1080	600	100
+Light_CloseUp_3.png	255	0	255	1080	600	100
+Light_CloseUp_4.png	255	0	255	1080	600	100
+Light_CloseUp_5.png	255	0	255	1080	600	100
+Light_CloseUp_6.png	255	0	255	1080	600	100
+Light_CloseUp_7.png	255	0	255	1080	600	100
+Light_CloseUp_8.png	255	0	255	1080	600	100
+Light_CloseUp_9.png	255	0	255	1080	600	100
+Light_CloseUp_10.png	255	0	255	1080	600	100

@@ -1,0 +1,8 @@
+5
+0
+
+CloseUp_Can1.png	255	0	255	1080	600	150
+CloseUp_Can2.png	255	0	255	1080	600	150
+CloseUp_Can3.png	255	0	255	1080	600	150
+CloseUp_Can4.png	255	0	255	1080	600	150
+CloseUp_Can5.png	255	0	255	1080	600	150

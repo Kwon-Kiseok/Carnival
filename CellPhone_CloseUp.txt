@@ -1,0 +1,14 @@
+11
+0
+
+CellPhone_1.png		255	0	255	1080	600	100
+CellPhone_2.png		255	0	255	1080	600	100
+CellPhone_3.png		255	0	255	1080	600	100
+CellPhone_4.png		255	0	255	1080	600	100
+CellPhone_5.png		255	0	255	1080	600	100
+CellPhone_6.png		255	0	255	1080	600	100
+CellPhone_7.png		255	0	255	1080	600	100
+CellPhone_8.png		255	0	255	1080	600	100
+CellPhone_9.png		255	0	255	1080	600	100
+CellPhone_10.png	255	0	255	1080	600	100
+

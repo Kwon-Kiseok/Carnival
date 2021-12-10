@@ -1,0 +1,20 @@
+17
+0
+
+Shake_Screen_1.png	255	0	255	1080	600	40
+Shake_Screen_2.png	255	0	255	1080	600	40
+Shake_Screen_3.png	255	0	255	1080	600	40
+Shake_Screen_4.png	255	0	255	1080	600	40
+Shake_Screen_5.png	255	0	255	1080	600	40
+Shake_Screen_6.png	255	0	255	1080	600	40
+Shake_Screen_7.png	255	0	255	1080	600	40
+Shake_Screen_8.png	255	0	255	1080	600	40
+Shake_Screen_9.png	255	0	255	1080	600	40
+Shake_Screen_10.png	255	0	255	1080	600	40
+Shake_Screen_11.png	255	0	255	1080	600	40
+Shake_Screen_12.png	255	0	255	1080	600	40
+Shake_Screen_13.png	255	0	255	1080	600	40
+Shake_Screen_14.png	255	0	255	1080	600	40
+Shake_Screen_15.png	255	0	255	1080	600	40
+Shake_Screen_16.png	255	0	255	1080	600	40
+Shake_Screen_17.png	255	0	255	1080	600	40
